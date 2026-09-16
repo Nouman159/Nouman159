@@ -23,8 +23,8 @@
 
 ## Verified Track Record
 
-| | | |
-|---|---|---|
+| | |
+|---|---|
 | **$10k+** earned on Contra | **4.85★** rating · 47 reviews |
 
 ---
