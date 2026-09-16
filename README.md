@@ -25,7 +25,7 @@
 
 | | | |
 |---|---|---|
-| **$10k+** earned on Contra | **4.85★** rating · 47 reviews | **68x** hired |
+| **$10k+** earned on Contra | **4.85★** rating · 47 reviews |
 
 ---
 
