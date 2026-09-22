@@ -17,7 +17,7 @@
 
  I'm a Full Stack AI Engineer specializing in RAG pipelines, LLM application development, and semantic search. I design multi-model pipelines, Whisper for transcription, GPT-4o for reasoning and scoring, backed by vector embeddings and retrieval architectures built to stay accurate as data scales. My focus is the full system around the model: data ingestion, structured prompting, evaluation, and reliability, the layer that determines whether AI output is trustworthy enough to ship. Currently running 3 AI systems in production across healthcare, EdTech, and HR tech.
 
-**3 AI systems currently in production** · Full-time Software Engineer at Spiral Lab · Freelancing on the side
+**3 AI systems currently in production** · Full-time Software Engineer at Spiral Lab · Part Time Freelancer
 
 ---
 
