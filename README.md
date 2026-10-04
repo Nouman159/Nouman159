@@ -1,72 +1,62 @@
 <div align="center">
 
-# Hi, I'm Nouman Arshad 👋
+# Hi, I'm Nouman Arshad
 
-### Full Stack AI Engineer — retrieval systems, LLM pipelines, and the applications they live inside
+AI Engineer working on RAG pipelines, Claude and OpenAI LLM integration, and AI search visibility (AEO/GEO).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouman-arshad-853165240/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eb87d833d80f97b4)
-[![Contra](https://img.shields.io/badge/Contra-Profile-000000?style=flat-square)](https://contra.com/nouman_arshad_15926)
-[![Replit](https://img.shields.io/badge/Replit-Projects-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@noumanarshad159)
-
-</div>
-
----
+[LinkedIn](https://www.linkedin.com/in/noumanarshad15926) · [Upwork](https://www.upwork.com/freelancers/~01eb87d833d80f97b4) · [Contra](https://contra.com/nouman_arshad_15926) · [Betterfind.ai](https://betterfind.ai)
 
 ## About
 
- I'm a Full Stack AI Engineer specializing in RAG pipelines, LLM application development, and semantic search. I design multi-model pipelines, Whisper for transcription, GPT-4o for reasoning and scoring, backed by vector embeddings and retrieval architectures built to stay accurate as data scales. My focus is the full system around the model: data ingestion, structured prompting, evaluation, and reliability, the layer that determines whether AI output is trustworthy enough to ship. Currently running 3 AI systems in production across healthcare, EdTech, and HR tech.
+Most of my work is the layer around the model: data ingestion, embeddings and vector search, prompting, per-user memory, safety checks, evaluation and cost tracking.
 
-**3 AI systems currently in production** · Full-time Software Engineer at Spiral Lab · Part Time Freelancer
+I'm also the Founding Engineer at [Betterfind.ai](https://betterfind.ai), where we built a platform that shows brands how they appear in ChatGPT, Gemini and Perplexity. Working on RAG systems is a big part of why I understand how LLMs pick which sources to trust and cite.
 
----
+## What I work on
 
-## Verified Track Record
+RAG and LLM integration
+- Claude and OpenAI assistants built into existing products
+- RAG over private docs and data, with answers that cite their sources
+- Per-user memory, tool use with approval before saving, and safety checks for sensitive domains
+- Evals, behavioral tests, and usage and cost tracking
 
-| | |
-|---|---|
-| **$10k+** earned on Contra | **4.85★** rating · 47 reviews |
+AI search visibility (AEO/GEO)
+- Tracking how answer engines describe and recommend brands
+- RAG brand chatbots that answer from a brand's own information
+- Structured data and content structure that LLMs can read and cite
 
----
+## Currently
 
-## Production Systems I've Shipped
+- Betterfind.ai: AI search visibility platform and RAG brand chatbot (Founding Engineer)
+- A Claude RAG assistant for a health platform, with per-user memory over health records, cited answers, emergency red-flag detection, and GDPR-compliant storage with zero data retention
 
-**[Lynx Flow Health](https://www.lynxflowhealth.com)** — Multi-tenant HIPAA-adjacent SaaS for medication adherence prediction. Risk engine flags at-risk patients before missed doses. **63% reduction in hospital readmissions, 42% reduction in emergency visits** across early adopter facilities. `Next.js · Supabase · PostgreSQL · WebSockets`
+## Projects I've shipped
 
-**[DCB Holistic](https://dcbholistic.com)** — AI-powered pet health platform. Two custom AI modules (blood work interpretation calibrated for raw-fed animals, TCVM guidance) plus a recipe formulator validated against AAFCO/FEDIAF standards, Zoom-integrated consultations, Stripe billing. `Next.js · Supabase · OpenAI · Stripe`
-
-**[iSMS](https://isms.iyadperdaus.sg)** — Enterprise school management platform replacing every fragmented admin tool with one system. RAG-based Knowledge Hub with vector semantic search, AI-assisted Form Builder, approval workflows, Microsoft 365 OAuth. **48+ pages, 8,500+ lines of route logic.** `React · Express · PostgreSQL · RAG`
-
-**[Interview Simulator](https://interviewsimulator.replit.app)** — Browser-based AI interview coach. Whisper transcription → GPT-4o scoring pipeline returns structured feedback (STAR alignment, strengths, improvements) in seconds. Fully automated ops: Stripe billing, weekly analytics digest, CRM auto-sync. `React · OpenAI · Stripe`
-
-**[Matches.Community](https://matchescommunity.replit.app)** — Multi-tenant SaaS automating 1:1 professional networking. Two-phase compatibility algorithm, automated scheduling, zero manual coordinator effort per cycle. `React · Express · PostgreSQL`
-
-**[Flyyt Time](https://flytt-time.vercel.app)** — FAA-compliant flight training management platform. Real-time Supabase subscriptions across instructor/student/admin dashboards. **65%+ reduction in administrative workload.** `Next.js · Supabase`
-
-**Dubai Automotive** — Centralized sales/purchase management platform replacing manual spreadsheet workflows for a Dubai-based firm. `Node.js · MySQL`
-
----
+| Project | What it does | Stack |
+|---|---|---|
+| Betterfind.ai | Tracks brand visibility in ChatGPT, Gemini and Perplexity, RAG brand chatbot, AI-automated action items | Next.js, TypeScript, LLMs, RAG |
+| iSMS | School management platform with a RAG knowledge hub, AI form builder, approval workflows and Microsoft 365 login. 48+ pages | React, Express, PostgreSQL, RAG |
+| myNeutron | Knowledge base that gives ChatGPT, Claude and Gemini persistent memory, with source-linked answers and a Chrome extension | Next.js, RAG, Chrome Extension |
+| DCB Holistic | Pet health platform with AI blood work interpretation for raw-fed animals, TCVM guidance, a recipe builder checked against AAFCO/FEDIAF standards, Zoom consults and Stripe | Next.js, Supabase, OpenAI, Stripe |
+| Lynx Flow Health | Medication adherence risk engine. 63% fewer hospital readmissions and 42% fewer emergency visits at early adopter facilities | Next.js, Supabase, PostgreSQL, WebSockets |
+| Interview Simulator | Whisper and GPT-4o pipeline that scores interview answers (STAR alignment, strengths, improvements) in seconds | React, OpenAI, Stripe |
+| Flyyt Time | FAA-compliant flight training management. Cut admin work by 65%+ | Next.js, Supabase |
 
 ## Stack
 
-**AI Engineering:** OpenAI API · GPT-4o · Whisper · RAG Pipelines · Vector Embeddings · Prompt Engineering
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Backend & Data:** Node.js · Express · PostgreSQL · Supabase · MySQL · REST APIs · WebSockets
-**Integrations:** Stripe · Zoom API · SendGrid · Replit · Vercel
+- AI: Claude API, OpenAI API, RAG, pgvector, Pinecone, LangChain, LangGraph, MCP, Whisper, evals
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend and data: Node.js, Express, Python, FastAPI, PostgreSQL, Supabase, WebSockets
+- Integrations: Stripe, Zoom API, n8n, Replit, Vercel
 
----
+## Track record
 
-## What People Say
+- 100% Job Success on Upwork
+- $10k+ earned on Contra, 4.85 star rating
+- Claude 101 certification (Anthropic)
 
-> "Nouman is a great developer who has helped me build out a few different softwares. He's technically skilled and can build things, but he also has foresight on how to design and set things up in a logical way. Flexible on working hours, dependable, and a good communicator."
-> — **Avery Smith**, Data Career Jumpstart (Contra)
+> "Nouman is a great developer who has helped me build out a few different softwares. He's technically skilled and can build things, but he also has foresight on how to design and set things up in a logical way." (Avery Smith, Data Career Jumpstart)
 
----
-
-<div align="center">
-
-**Available for new projects** · Lahore, Pakistan (GMT+5)
-
-[LinkedIn](https://www.linkedin.com/in/nouman-arshad-853165240/) · [Upwork](https://www.upwork.com/freelancers/~01eb87d833d80f97b4) · [Contra](https://contra.com/nouman_arshad_15926) · [Replit](https://replit.com/@noumanarshad159)
+Open to RAG, LLM integration and AEO projects.
 
 </div>
