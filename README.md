@@ -53,7 +53,7 @@ AI search visibility (AEO/GEO)
 
 - 100% Job Success on Upwork
 - $10k+ earned on Contra, 4.85 star rating
-- Claude 101 certification (Anthropic)
+- Claude 101 certification by Anthropic
 
 > "Nouman is a great developer who has helped me build out a few different softwares. He's technically skilled and can build things, but he also has foresight on how to design and set things up in a logical way." (Avery Smith, Data Career Jumpstart)
 
